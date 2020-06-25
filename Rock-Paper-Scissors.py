@@ -3,8 +3,6 @@ import time
 
 choices = ["s", "r", "p"]
 
-def game_win(player_answer, opponent_answer):
-
 
 def game():
     answer = input("what move do you want to go with (s = scissors/r = roack/p = paper): ")
